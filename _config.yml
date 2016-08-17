@@ -1,0 +1,28 @@
+name: ' rumblr'
+favicon: null
+layout_spectrum: 0.05463435174897313
+typography_spectrum: 0.1864569520112127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.657031613169238
+  lightness: 0.269699847092852
+  saturation: 0.8554722222033888
+  rhythmicContrast: 0.17575810919515789
+purpose: []
